@@ -1,0 +1,86 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+*.eggs/
+build/
+dist/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+coverage/
+htmlcov/
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+.idea/
+*.iml
+
+# Flask and Gunicorn log files
+*.log
+*.out
+*.err
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# TensorFlow / Keras models and checkpoints
+*.h5
+*.hdf5
+*.pb
+checkpoint/
+logs/
+
+# Ignore uploaded images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Ignore any other large media files
+*.mp4
+*.avi
+*.mov
+
+# Render specific files
+.render/
